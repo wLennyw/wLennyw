@@ -4,9 +4,9 @@
 
 That role brought me closer to data, from budgeting and tracking to measuring and optimizing performance daily. It naturally transitioned into a data analyst position, where I expanded beyond marketing to cover business-wide data, including finance, logistics, and product optimization.
 
-🌱 I’m currently deepening my skills in statistics, advanced Python, and AI through [365 Data Science](https://learn.365datascience.com/) to become a more effective analyst and deliver greater data-driven value. I’m also building my personal portfolio along the way.
+🌱 I took sometimes off from workforce to care for family matters while deepening my skills in statistics, Python, and AI through [365 Data Science](https://learn.365datascience.com/) to become a more effective analyst and build my personal personal portfolio along the way. Now I'm fully ready to return and deliver greater data-driven value.
 
-✨ Outside of work, I enjoy exercising, traveling, and I’m currently working on improving my chess game.
+✨ Outside of work, I enjoy exercising, traveling, and currently working on improving my chess game.
 
 Thanks for visiting my site! Feel free to connect or share feedback.
 
