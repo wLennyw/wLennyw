@@ -4,11 +4,11 @@
 
 That role brought me closer to data, from budgeting and tracking to measuring and optimizing performance daily. It naturally transitioned into a data analyst position, where I expanded beyond marketing to cover business-wide data, including finance, logistics, and product optimization.
 
-🌱 I took sometimes off from workforce to care for family matters while deepening my skills in statistics, Python, and AI through [365 Data Science](https://learn.365datascience.com/) to become a more effective analyst and build my personal personal portfolio along the way. Now I'm fully ready to return and deliver greater data-driven value.
+🌱 I took sometimes off from workforce to care for family matters while deepening my skills in statistics, Python, and AI through [365 Data Science](https://learn.365datascience.com/) to become a more effective analyst and build my personal personal portfolio along the way (check the pinned repositories below). Now I'm fully ready to return and deliver greater data-driven value.
 
 ✨ Outside of work, I enjoy exercising, traveling, and currently working on improving my chess game.
 
-Thanks for visiting my site! Feel free to connect or share feedback.
+Thanks for visiting my site! Feel free connect or share feedback.
 
 📫 You can reach me here:
 LinkedIn – https://www.linkedin.com/in/wlenny/
